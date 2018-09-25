@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Issues>
+    <Issue index="2016137" opendate="2016-11-20">7694043</Issue>
+    <Issue index="2016138" opendate="2016-11-22">6870337</Issue>
+    <Issue index="2016139" opendate="2016-11-25">4633469</Issue>
+    <Issue index="2016140" opendate="2016-11-27">8725298</Issue>
+    <Issue index="2016141" opendate="2016-11-29">1295191</Issue>
+    <Issue index="2016142" opendate="2016-12-02">7072801</Issue>
+    <Issue index="2016143" opendate="2016-12-04">6171952</Issue>
+    <Issue index="2016144" opendate="2016-12-06">0547186</Issue>
+    <Issue index="2016145" opendate="2016-12-09">7313021</Issue>
+    <Issue index="2016146" opendate="2016-12-11">0582002</Issue>
+    <Issue index="2016147" opendate="2016-12-13">4752877</Issue>
+    <Issue index="2016148" opendate="2016-12-16">8725603</Issue>
+    <Issue index="2016149" opendate="2016-12-18">0061755</Issue>
+    <Issue index="2016150" opendate="2016-12-20">1089511</Issue>
+    <Issue index="2016151" opendate="2016-12-23">1692491</Issue>
+    <Issue index="2016152" opendate="2016-12-25">3513300</Issue>
+    <Issue index="2016153" opendate="2016-12-27">1383625</Issue>
+    <Issue index="2016154" opendate="2016-12-30">0514491</Issue>
+    <Issue index="2017001" opendate="2017-01-01">2535389</Issue>
+    <Issue index="2017002" opendate="2017-01-03">4878761</Issue>
+  </Issues>
+  <Patterns>
+    <Item1></Item1>
+    <Item2></Item2>
+    <Item3></Item3>
+    <Item4></Item4>
+    <Item5></Item5>
+    <Item6></Item6>
+    <Item7></Item7>
+    <DefaultPatterns>
+      <Pattern index="1"></Pattern>
+      <Pattern index="2"></Pattern>
+      <Pattern index="3"></Pattern>
+      <Pattern index="4"></Pattern>
+      <Pattern index="5"></Pattern>
+      <Pattern index="6"></Pattern>
+      <Pattern index="7"></Pattern>
+    </DefaultPatterns>
+  </Patterns>
+  <Summary>
+    <Person name="Me">
+      <Item issueNumber="65" pay="195" income="1800" balance="1605" count="20">3-5</Item>
+      <Item issueNumber="66" pay="323" income="0" balance="-323" count="0">
+      </Item>
+    </Person>
+    <Person name="Mom">
+    </Person>
+  </Summary>
+  <EmailAddress>
+    <Address filter="*,NOTE">m18721134152@163.com</Address>
+    <Address filter="*,NOTE">m13553496197@163.com</Address>
+  </EmailAddress>
+  <settings>
+    <key name="IsCreateNew" value="True"/>
+    <key name="Uri" value="http://f.apiplus.net/qxc-20.xml"/>
+  </settings>
+</root>

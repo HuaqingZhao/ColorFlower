@@ -1,0 +1,12 @@
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\ColorFlower.xml
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\EMailViewer.exe.config
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\EMailViewer.exe
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\EMailViewer.pdb
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\ColorFlower.Common.dll
+F:\ColorFlower\ColorFlower\EMailViewer\bin\Debug\ColorFlower.Common.pdb
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.csprojResolveAssemblyReference.cache
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.MainForm.resources
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.Properties.Resources.resources
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.csproj.GenerateResource.Cache
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.exe
+F:\ColorFlower\ColorFlower\EMailViewer\obj\Debug\EMailViewer.pdb

@@ -1,0 +1,12 @@
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\ColorFlower.xml
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\AcceptEmail.exe.config
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\AcceptEmail.exe
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\AcceptEmail.pdb
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\ColorFlower.Common.dll
+F:\ColorFlower\ColorFlower\AcceptEmail\bin\Debug\ColorFlower.Common.pdb
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.csprojResolveAssemblyReference.cache
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.Form1.resources
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.Properties.Resources.resources
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.csproj.GenerateResource.Cache
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.exe
+F:\ColorFlower\ColorFlower\AcceptEmail\obj\Debug\AcceptEmail.pdb

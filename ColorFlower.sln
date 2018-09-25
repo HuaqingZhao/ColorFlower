@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorFlower", "ColorFlower\ColorFlower.csproj", "{4B536E55-5FED-4717-B930-F9F00E5C99D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorFlower.Common", "ColorFlower.Common\ColorFlower.Common.csproj", "{15674979-81A0-4E8E-AA3C-A2D3807AE38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptEmail", "AcceptEmail\AcceptEmail.csproj", "{8730F000-1A84-4853-A137-11A03D1AD963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloom", "Bloom\Bloom.csproj", "{87A0B248-0B06-4B24-9222-CC98194B163C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B536E55-5FED-4717-B930-F9F00E5C99D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B536E55-5FED-4717-B930-F9F00E5C99D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B536E55-5FED-4717-B930-F9F00E5C99D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B536E55-5FED-4717-B930-F9F00E5C99D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15674979-81A0-4E8E-AA3C-A2D3807AE38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15674979-81A0-4E8E-AA3C-A2D3807AE38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15674979-81A0-4E8E-AA3C-A2D3807AE38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15674979-81A0-4E8E-AA3C-A2D3807AE38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8730F000-1A84-4853-A137-11A03D1AD963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8730F000-1A84-4853-A137-11A03D1AD963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8730F000-1A84-4853-A137-11A03D1AD963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8730F000-1A84-4853-A137-11A03D1AD963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A0B248-0B06-4B24-9222-CC98194B163C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A0B248-0B06-4B24-9222-CC98194B163C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A0B248-0B06-4B24-9222-CC98194B163C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A0B248-0B06-4B24-9222-CC98194B163C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Issues>
+    <Issue index="2017155" opendate="2017-12-31">2987936</Issue>
+    <Issue index="2018001" opendate="2018-01-02">7985549</Issue>
+    <Issue index="2018002" opendate="2018-01-05">9516414</Issue>
+    <Issue index="2018003" opendate="2018-01-07">6532550</Issue>
+    <Issue index="2018004" opendate="2018-01-09">2592297</Issue>
+    <Issue index="2018005" opendate="2018-01-12">3285064</Issue>
+    <Issue index="2018006" opendate="2018-01-14">0588152</Issue>
+    <Issue index="2018007" opendate="2018-01-16">1046944</Issue>
+    <Issue index="2018008" opendate="2018-01-19">7948470</Issue>
+    <Issue index="2018009" opendate="2018-01-21">4998867</Issue>
+    <Issue index="2018010" opendate="2018-01-23">5118136</Issue>
+    <Issue index="2018011" opendate="2018-01-26">9892103</Issue>
+    <Issue index="2018012" opendate="2018-01-28">3927541</Issue>
+    <Issue index="2018013" opendate="2018-01-30">2385167</Issue>
+    <Issue index="2018014" opendate="2018-02-02">0727169</Issue>
+    <Issue index="2018015" opendate="2018-02-04">2896067</Issue>
+    <Issue index="2018016" opendate="2018-02-06">6933947</Issue>
+    <Issue index="2018017" opendate="2018-02-09">3960971</Issue>
+    <Issue index="2018018" opendate="2018-02-11">3259958</Issue>
+    <Issue index="2018019" opendate="2018-02-13">4641056</Issue>
+    <Issue index="2018020" opendate="2018-02-23">4065611</Issue>
+    <Issue index="2018021" opendate="2018-02-25">4986361</Issue>
+    <Issue index="2018022" opendate="2018-02-27">4134730</Issue>
+    <Issue index="2018023" opendate="2018-03-02">9024153</Issue>
+    <Issue index="2018024" opendate="2018-03-04">1962727</Issue>
+    <Issue index="2018025" opendate="2018-03-06">9686075</Issue>
+    <Issue index="2018026" opendate="2018-03-09">8031130</Issue>
+    <Issue index="2018027" opendate="2018-03-11">9697651</Issue>
+    <Issue index="2018028" opendate="2018-03-13">9819867</Issue>
+    <Issue index="2018029" opendate="2018-03-16">6398411</Issue>
+    <Issue index="2018030" opendate="2018-03-18">8001623</Issue>
+    <Issue index="2018031" opendate="2018-03-20">3708681</Issue>
+    <Issue index="2018032" opendate="2018-03-23">8084381</Issue>
+    <Issue index="2018033" opendate="2018-03-25">6356911</Issue>
+    <Issue index="2018034" opendate="2018-03-27">3737385</Issue>
+    <Issue index="2018035" opendate="2018-03-30">6382607</Issue>
+    <Issue index="2018036" opendate="2018-04-01">4464237</Issue>
+  </Issues>
+  <Patterns>
+    <Item1>
+    </Item1>
+    <Item2>
+    </Item2>
+    <Item3>
+    </Item3>
+    <Item4>
+    </Item4>
+    <Item5>
+    </Item5>
+    <Item6>
+    </Item6>
+    <Item7>
+    </Item7>
+    <DefaultPatterns>
+      <Pattern index="1">P1312702H</Pattern>
+      <Pattern index="2">P4165725H</Pattern>
+      <Pattern index="3">P3738561H</Pattern>
+      <Pattern index="4">P2431346H</Pattern>
+      <Pattern index="5">P5214365H</Pattern>
+      <Pattern index="6">P8867434H</Pattern>
+      <Pattern index="7">P0780403H</Pattern>
+    </DefaultPatterns>
+  </Patterns>
+  <Predictions>
+    <Item index="2018007" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018008" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018029" predictionResult="0823495617-2756934801-2946501837-4915382670-5873420619-7961045238-145039672" />
+    <Item index="2018031" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018032" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018033" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018034" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018035" predictionResult="0123456789-0123456789-0123456789-0123456789-0123456789-0123456789-012345678" />
+    <Item index="2018036" predictionResult="6891043725-0428361759-3180659427-8061359247-7162903845-1543782690-130869427" />
+  </Predictions>
+  <Summary>
+    <Person name="Me">
+    </Person>
+    <Person name="Mom">
+    </Person>
+  </Summary>
+  <EmailAddress>
+    <Address filter="*,NOTE">m18721134152@163.com</Address>
+    <Address filter="*,NOTE">m13553496197@163.com</Address>
+  </EmailAddress>
+  <settings>
+    <key name="IsCreateNew" value="True" />
+    <key name="Threshold" value="60" />
+    <key name="Start" value="2" />
+    <key name="CharLength" value="12" />
+    <key name="SelectionLength" value="2" />
+    <key name="Uri" value="http://f.apiplus.net/qxc-20.xml" />
+  </settings>
+</root>

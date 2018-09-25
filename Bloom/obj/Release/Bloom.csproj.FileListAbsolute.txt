@@ -1,0 +1,8 @@
+F:\ColorFlower\ColorFlower\Bloom\bin\Release\Bloom.exe.config
+F:\ColorFlower\ColorFlower\Bloom\bin\Release\Bloom.exe
+F:\ColorFlower\ColorFlower\Bloom\bin\Release\Bloom.pdb
+F:\ColorFlower\ColorFlower\Bloom\obj\Release\Bloom.csprojResolveAssemblyReference.cache
+F:\ColorFlower\ColorFlower\Bloom\obj\Release\Bloom.exe
+F:\ColorFlower\ColorFlower\Bloom\obj\Release\Bloom.pdb
+F:\ColorFlower\ColorFlower\Bloom\bin\Release\ColorFlower.Common.dll
+F:\ColorFlower\ColorFlower\Bloom\bin\Release\ColorFlower.Common.pdb

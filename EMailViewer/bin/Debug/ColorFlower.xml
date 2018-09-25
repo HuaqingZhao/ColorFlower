@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Issues>
+    <Issue index="50" display="50">4609236</Issue>
+    <Issue index="51" display="51">0286246</Issue>
+    <Issue index="52" display="52">2287449</Issue>
+    <Issue index="53" display="53">0163696</Issue>
+    <Issue index="54" display="54">6240813</Issue>
+    <Issue index="55" display="55">0468080</Issue>
+    <Issue index="56" display="56">1510996</Issue>
+    <Issue index="57" display="57">8686709</Issue>
+    <Issue index="58" display="58">6956881</Issue>
+    <Issue index="59" display="59">1346174</Issue>
+    <Issue index="60" display="60">8253313</Issue>
+    <Issue index="61" display="61">1292990</Issue>
+    <Issue index="62" display="62">4202815</Issue>
+    <Issue index="63" display="63">0861015</Issue>
+    <Issue index="64" display="64">8307890</Issue>
+    <Issue index="65" display="65">3745481</Issue>
+    <Issue index="66" display="66">6560612</Issue>
+    <Issue index="67" display="67">1123095</Issue>
+    <Issue index="68" display="68">0700278</Issue>
+    <Issue index="69" display="69">3438450</Issue>
+    <Issue index="70" display="70">8427535</Issue>
+    <Issue index="71" display="71">6609203</Issue>
+    <Issue index="72" display="72">9179600</Issue>
+    <Issue index="73" display="73">0467325</Issue>
+    <Issue index="74" display="74">8830258</Issue>
+    <Issue index="75" display="75">6776139</Issue>
+    <Issue index="76" display="76">6159740</Issue>
+    <Issue index="77" display="77">1886011</Issue>
+    <Issue index="78" display="78">3355371</Issue>
+    <Issue index="79" display="79">3187912</Issue>
+    <Issue index="80" display="80">2028504</Issue>
+    <Issue index="81" display="81">4232451</Issue>
+    <Issue index="82" display="82">2663481</Issue>
+    <Issue index="83" display="83">4192000</Issue>
+  </Issues>
+  <Outputs>
+  </Outputs>
+  <Patterns>
+    <Item1></Item1>
+    <Item2></Item2>
+    <Item3></Item3>
+    <Item4></Item4>
+    <Item5></Item5>
+    <Item6></Item6>
+    <Item7></Item7>
+    <DefaultPatterns>
+      <Pattern index="1">T10</Pattern>
+      <Pattern index="2">T8</Pattern>
+      <Pattern index="3">T5</Pattern>
+      <Pattern index="4">T2</Pattern>
+      <Pattern index="5">T9</Pattern>
+      <Pattern index="6">T4</Pattern>
+      <Pattern index="7">T6</Pattern>
+    </DefaultPatterns>
+  </Patterns>
+  <Summary>
+    <Person name="Me">
+      <Item issueNumber="65" pay="195" income="1800" balance="1605" count="20">3-5</Item>
+      <Item issueNumber="66" pay="323" income="0" balance="-323" count="0">
+      </Item>
+    </Person>
+    <Person name="Mom">
+    </Person>
+  </Summary>
+  <EmailAddress>
+    <Address filter="*,NOTE">m18721134152@163.com</Address>
+    <Address filter="*,NOTE">m13553496197@163.com</Address>
+  </EmailAddress>
+</root>

@@ -1,0 +1,6 @@
+F:\ColorFlower\ColorFlower\ColorFlower.Common\bin\Debug\ColorFlower.xml
+F:\ColorFlower\ColorFlower\ColorFlower.Common\bin\Debug\ColorFlower.Common.dll
+F:\ColorFlower\ColorFlower\ColorFlower.Common\bin\Debug\ColorFlower.Common.pdb
+F:\ColorFlower\ColorFlower\ColorFlower.Common\obj\Debug\ColorFlower.Common.dll
+F:\ColorFlower\ColorFlower\ColorFlower.Common\obj\Debug\ColorFlower.Common.pdb
+F:\ColorFlower\ColorFlower\ColorFlower.Common\obj\Debug\ColorFlower.Common.csprojResolveAssemblyReference.cache
